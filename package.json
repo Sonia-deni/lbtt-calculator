@@ -1,0 +1,23 @@
+{
+  "name": "lbtt-calculator",
+  "version": "1.0.0",
+  "description": "Simple lbtt calculator",
+  "main": "lbtt.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonia-deni/lbtt-calculator.git"
+  },
+  "keywords": [
+    "tax",
+    "lbtt"
+  ],
+  "author": "Sonia Denikiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sonia-deni/lbtt-calculator/issues"
+  },
+  "homepage": "https://github.com/Sonia-deni/lbtt-calculator#readme"
+}
